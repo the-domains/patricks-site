@@ -1,0 +1,14 @@
+layout_spectrum: 0.934223115677014
+typography_spectrum: 0.22700336039997637
+color:
+  brandStrength: 0.882154620019719
+  lightness: 0.06672110664658248
+  saturation: 0.049702508142217994
+  rhythmicContrast: 0.07106278417631984
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: "Patrick's Site"
